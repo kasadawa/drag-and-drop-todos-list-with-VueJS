@@ -1,4 +1,4 @@
-# Drag & Drop todo list with VueJS
+# Drag & Drop todos list with VueJS
 
 Used stack: 
  - VueJS
