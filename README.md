@@ -1,4 +1,12 @@
-# todo-list
+# Drag & Drop todo list with VueJS
+
+Used stack: 
+ - VueJS
+ - Typescript + Decorators 
+ - Babel
+ - HTML Drag & Drop API 
+
+Further information can be found on [medium]().
 
 ## Project setup
 ```
@@ -24,6 +32,3 @@ npm run test
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
