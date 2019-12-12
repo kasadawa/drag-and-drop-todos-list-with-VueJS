@@ -6,7 +6,7 @@ Used stack:
  - Babel
  - HTML Drag & Drop API 
 
-Further information can be found on [medium]().
+Further information can be found on [medium](https://medium.com/@kasadawa/new-2019-creating-draggable-list-with-vuejs-2c141ccaed60?source=friends_link&sk=550ecc55d7d4adcfbc59891ce4bdd997).
 
 ## Project setup
 ```
